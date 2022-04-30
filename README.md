@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning coding, cooking and gardening.
 - 🌱 I’m currently learning java, sql and c#.
 - 💞️ I’m aspiring to pass my exams.
+- I'm currently studing Econometrics and Computer Science on University of Gdańsk 
 - 📫 You can reach me via email swastekm@gmail.com
 
 <!---
